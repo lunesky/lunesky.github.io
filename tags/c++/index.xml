@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>C&#43;&#43; on YLog</title>
+        <link>https://lunesky.github.io/tags/c&#43;&#43;/</link>
+        <description>Recent content in C&#43;&#43; on YLog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sat, 02 Apr 2022 11:37:16 +0800</lastBuildDate><atom:link href="https://lunesky.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>C&#43;&#43;</title>
+        <link>https://lunesky.github.io/post/cpp/</link>
+        <pubDate>Sat, 02 Apr 2022 11:37:16 +0800</pubDate>
+        
+        <guid>https://lunesky.github.io/post/cpp/</guid>
+        <description>&lt;h3 id=&#34;c&#34;&gt;C++&lt;/h3&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
